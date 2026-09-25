@@ -1,3 +1,4 @@
 summary(cars)
 
-basic hello.qmd 
+
+plot1 <-ggplot(data = cars, aes(x=car_type, y = no_cars)
