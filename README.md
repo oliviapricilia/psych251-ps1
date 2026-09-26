@@ -16,4 +16,4 @@ my live page:
 
 classmates PR I reviewed: https://github.com/limgabs/psych251-ps1
 
-AI use: None 
+AI use: Explaining ways to get html page live (Claude)
