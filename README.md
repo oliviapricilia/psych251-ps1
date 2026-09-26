@@ -2,7 +2,7 @@
 
 **Live page:** https://oliviapricilia.github.io/psych251-ps1/
 
-**Classmate's PR I reviewed:** https://github.com/limgabs/psych251-ps1/pull/1
+**Classmate's PR I reviewed:**  https://github.com/limgabs/psych251-ps1/pull/1
 
 Author: Olivia Pricilia
 
