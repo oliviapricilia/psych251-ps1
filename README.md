@@ -8,7 +8,7 @@ Author: Olivia Pricilia
 
 This README is for Problem Set 1 of PSYCH 251.
 
-The merge conflict on the `hello.qmd` title line was resolved in commit 3883064
+The merge conflict on the `hello.qmd` title line was resolved in commit 49ee1d2
 (`Merge branch 'other-title' into main`).
 
 AI use: asked Claude to explain git commands and help debug getting the rendered HTML page
