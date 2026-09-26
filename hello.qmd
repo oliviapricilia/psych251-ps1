@@ -1,4 +1,10 @@
 summary(cars)
 
+```{r}
+library(ggplot2)
 
-plot1 <-ggplot(data = cars, aes(x=car_type, y = no_cars)
+ggplot(cars, aes(x = speed, y = dist)) +
+  geom_point() +
+  labs(x = "Speed (mph)", y = "Stopping distance (ft)") +
+  theme_minimal()
+```
