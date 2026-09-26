@@ -1,4 +1,3 @@
-"Hello, problem"
 "Hello, conflicts"
 
 summary(cars)
