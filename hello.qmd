@@ -1,6 +1,7 @@
-title: "Hello, conflicts"
+---
+title: "Hello, conflicts resolved"
 format: html
-
+---
 
 ```{r}
 summary(cars)
