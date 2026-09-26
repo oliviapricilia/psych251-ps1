@@ -1,8 +1,10 @@
-```{r}
-summary(cars)
-```
+title: "Hello, conflicts"
+format: html
+
 
 ```{r}
+summary(cars)
+
 library(ggplot2)
 
 ggplot(cars, aes(x = speed, y = dist)) +

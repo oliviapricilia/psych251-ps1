@@ -1,0 +1,7 @@
+*.html
+!docs/*.html
+.secrets
+.Rproj.user/
+.Rhistory
+/.quarto/
+**/*.quarto_ipynb
