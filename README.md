@@ -1,19 +1,15 @@
 # psych251-ps1
 
+**Live page:** https://oliviapricilia.github.io/psych251-ps1/
 
-my live page:
-(https://oliviapricilia.github.io/psych251-ps1/)
-
-PS1 - PSYCH 251 
+**Classmate's PR I reviewed:** https://github.com/limgabs/psych251-ps1/pull/1
 
 Author: Olivia Pricilia
 
-This readme is for Problem Sheet 1 of PSYCH 251 
+This README is for Problem Set 1 of PSYCH 251.
 
+The merge conflict on the `hello.qmd` title line was resolved in commit 3883064
+(`Merge branch 'other-title' into main`).
 
-my live page:
-(https://oliviapricilia.github.io/psych251-ps1/)
-
-classmates PR I reviewed: https://github.com/limgabs/psych251-ps1
-
-AI use: Explaining ways to get html page live (Claude)
+AI use: asked Claude to explain git commands and help debug getting the rendered HTML page
+live. I ran all commands and made all commits myself.
