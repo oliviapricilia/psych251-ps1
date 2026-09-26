@@ -1,6 +1,14 @@
-"Hello, problems"
-"Hello, conflicts"
+title: "Hello, conflicts"
+format: html
 
+
+```{r}
 summary(cars)
 
-basic hello.qmd 
+library(ggplot2)
+
+ggplot(cars, aes(x = speed, y = dist)) +
+  geom_point() +
+  labs(x = "Speed (mph)", y = "Stopping distance (ft)") +
+  theme_minimal()
+```
