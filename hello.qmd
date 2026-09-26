@@ -1,4 +1,6 @@
+```{r}
 summary(cars)
+```
 
 ```{r}
 library(ggplot2)
