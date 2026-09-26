@@ -1,5 +1,10 @@
 # psych251-ps1
-PS1 PSYCH 251
+
+
+my live page:
+(https://oliviapricilia.github.io/psych251-ps1/)
+
+PS1 - PSYCH 251 
 
 Author: Olivia Pricilia
 
@@ -10,3 +15,5 @@ my live page:
 (https://oliviapricilia.github.io/psych251-ps1/)
 
 classmates PR I reviewed: https://github.com/limgabs/psych251-ps1
+
+AI use: None 
